@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sde_1_adapter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sde_facade" vcs="Git" />
   </component>
 </project>
