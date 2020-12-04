@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Introduction/Introduction.iml" filepath="$PROJECT_DIR$/Introduction/Introduction.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Software-Design.iml" filepath="$PROJECT_DIR$/.idea/Software-Design.iml" />
       <module fileurl="file://$PROJECT_DIR$/sde_1_adapter/sde_1_adapter.iml" filepath="$PROJECT_DIR$/sde_1_adapter/sde_1_adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/states/states.iml" filepath="$PROJECT_DIR$/states/states.iml" />
     </modules>
   </component>
 </project>
